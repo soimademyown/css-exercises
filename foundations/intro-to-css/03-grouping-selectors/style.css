@@ -1,0 +1,16 @@
+.backgroundandtext,
+.backgroundandtext {
+font-size: 28px;
+font-family: Helvetica, sans-serif, Times New Roman;
+}
+
+.yellowbackground {
+    background-color: #ffff00;
+}
+
+.backgroundandtext {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+
